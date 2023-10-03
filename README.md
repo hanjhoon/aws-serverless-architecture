@@ -29,8 +29,11 @@ AWS 프리 티어
 
 + 7단계: API 테스트
   
-REQBIN(https://reqbin.com/)
+  + [REQBIN](https://reqbin.com/)
 
 # 디스코드 날씨 알림 봇 만들기
+
+### [openweathermap](https://openweathermap.org/)
+
 ![image](https://github.com/hanjhoon/aws-serverless-architecture/assets/121271030/427ee7e0-c52c-49f3-b7bb-183f663f904d)
 
